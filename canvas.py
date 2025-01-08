@@ -5,7 +5,7 @@ import markdown
 from dotenv import load_dotenv
 
 load_dotenv()
-CANVAS_API_KEY= os.environ["CANVAS_API_KEY"]
+# CANVAS_API_KEY= os.environ["CANVAS_API_KEY"]
 
 
 def markdown_to_html(markdown_text):
