@@ -2,3 +2,4 @@ streamlit
 haystack-ai
 PyPDF2
 python-dotenv
+markdown
