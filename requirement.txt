@@ -1,5 +1,5 @@
-Python
-Streamlit
-Haystack
+python
+streamlit
+haystack-ai
 PyPDF2
 python-dotenv
